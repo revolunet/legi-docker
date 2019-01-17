@@ -1,5 +1,5 @@
 
-## Nouveau repo : https://github.com/Legilibre/legi-postgres
+# deprecated - use https://github.com/Legilibre/legi-postgres
 
 
 
